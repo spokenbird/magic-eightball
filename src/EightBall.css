@@ -1,0 +1,14 @@
+.eight-ball {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    color: #FFF;
+    position: relative;
+    display: flex;
+    margin: auto;
+    top: 50px;
+}
+
+.eight-ball p {
+    margin: auto;
+}
